@@ -1,0 +1,202 @@
+[
+    {
+        "id": "cafe-01",
+        "titulo": "Café Americano",
+        "imagen": "img/cafe americano.webp",
+        "categoria": {
+            "nombre": "Cafe",
+            "id": "cafe"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cafe-02",
+        "titulo": "Café Espresso",
+        "imagen": "img/Vanilla Latte_LongShadow_Cream.webp",
+        "categoria": {
+            "nombre": "Cafe",
+            "id": "cafe"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cafe-03",
+        "titulo": "Café Latte",
+        "imagen": "img/10032021_CARAMEL_LATTEwVANILLA_LS-min_1.webp",
+        "categoria": {
+            "nombre": "Cafe",
+            "id": "cafe"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cafe-04",
+        "titulo": "Café Mocha",
+        "imagen": "img/Cafe Mocha.webp",
+        "categoria": {
+            "nombre": "Cafe",
+            "id": "cafe"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "batidos-01",
+        "titulo": "Jugo de Naranja",
+        "imagen": "img/glass-of-orange-juice-ai-generative-free-png.png",
+        "categoria": {
+            "nombre": "Batidos",
+            "id": "batidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "batidos-02",
+        "titulo": "Batido de Banana",
+        "imagen": "img/closeup-shot-of-an-banana-drink-juice-and-smoothies-perfect-for-drink-catalog-ai-generated-png.png",
+        "categoria": {
+            "nombre": "Batidos",
+            "id": "batidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "batidos-03",
+        "titulo": "Batido de Vainilla",
+        "imagen": "img/vainilla.png",
+        "categoria": {
+            "nombre": "Batidos",
+            "id": "batidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "batidos-04",
+        "titulo": "Batido de Frutos del Bosque",
+        "imagen": "img/close-up-view-of-blueberry-smoothies-perfect-for-drink-catalog-png.webp",
+        "categoria": {
+            "nombre": "Batidos",
+            "id": "batidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Almuerzo-01",
+        "titulo": "Hamburguesa",
+        "imagen": "img/sandwich de pollo con salsa.webp",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "Almuerzo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Almuerzo-02",
+        "titulo": "Sandwich de Pollo",
+        "imagen": "img/sandwich de pollo.webp",
+        "categoria": {
+            "nombre": "Sandwich de Pollo",
+            "id": "Almuerzo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Almuerzo-03",
+        "titulo": "Sandwich de Jamon",
+        "imagen": "img/sandwich de jamon.png",
+        "categoria": {
+            "nombre": "Sandwich de Jamon",
+            "id": "Almuerzo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Almuerzo-03",
+        "titulo": "Sandwich de Lomito",
+        "imagen": "img/lomito.png",
+        "categoria": {
+            "nombre": "Lomito",
+            "id": "Almuerzo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajores-01",
+        "titulo": "Alfajor Clásico",
+        "imagen": "img/52d08e36c605d8ccc33e035296a9e79d.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajores-02",
+        "titulo": "Alfajor de Chocolate",
+        "imagen": "img/340df6d3ef5e5d5e416c9d5df2e3b5d4.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajores-03",
+        "titulo": "Alfajor de Maicena",
+        "imagen": "img/97577d68a924006845a889a3a705a66e.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajores-04",
+        "titulo": "Alfajor de Nuez",
+        "imagen": "img/390f592ee0ec106b791a02543caaad3c.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Conito-01",
+        "titulo": "Conito de Chocolate Blanco con DDL",
+        "imagen": "img/61a5493d8d1b7a464da92a6fc71a09b1.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Conito-02",
+        "titulo": "Conito de Chocolate Negro con DDL",
+        "imagen": "img/CHOCOLATE NEGRO.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Conito-03",
+        "titulo": "Conito de Chocolate Mixto con DDL",
+        "imagen": "img/mixto.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Conito-04",
+        "titulo": "Conito de Cacao 70% con DDL",
+        "imagen": "img/70 cacao.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "alfajores"
+        },
+        "precio": 1000
+    }
+]
